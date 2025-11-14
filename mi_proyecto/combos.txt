@@ -1,0 +1,6 @@
+C001|Pack Gaseosas|500.0
+C002|Pack Cervezas|1300.0
+C003|Combo Skyy-Speed|3400.0
+C004|Combo Gancia-Sprite|2500.0
+C005|Combo Fernet-Coca|4500.0
+C008|RON-Sprite|35000.0
